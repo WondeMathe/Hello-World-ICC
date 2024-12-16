@@ -1,1 +1,1 @@
-console.log("Hello ICC")
+console.log("Hello ICC");
